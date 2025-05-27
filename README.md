@@ -1,6 +1,6 @@
 # SMA Artifact Removal
 
-This repository contains a Python script for artifact removal from EEG signal data related to Spinal Muscular Atrophy (SMA). The script detects and mitigates artifacts in EEG recordings stored as CSV files and outputs cleaned versions along with visual plots.
+This repository contains a Python script for artifact removal from signal data related to Spinal Muscular Atrophy (SMA).
 
 ## Features
 
