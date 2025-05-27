@@ -13,7 +13,7 @@ DOWNSAMPLE_FACTOR = 50
 CHANNELS_PER_PLOT = 6
 PLOT_START_TIME = 0  
 
-# List of dead channel suffixes
+# List of dead channels
 DEAD_CHANNELS = [
     "A023", "A024", "A025", "A026", "A027", "A028", "A029", "A030", "A031",
     "B016", "B023", "C023", "C024", "D020", "D023"
